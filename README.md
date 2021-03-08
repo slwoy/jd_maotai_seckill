@@ -1,22 +1,3 @@
-# 近期先不修改了，有啥问题会写代码的自己改改吧！最近股市行情好，茅台的事情先放一放，炒股赚钱去了。
-说句实话有点看不上茅台这点钱了.....
-自己赚钱不如带大家一起赚钱，独乐乐不如众乐乐
-
-有需要炒股赚钱的加群吧
-
-<table id='wechat_group1'>
- <tr><td id='group_6'>
-            <img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx6.png?size=140'>
-            <h4 align='center'>群6</h4>
-        </td>
-          <td id='group_7'>
-            <img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx7.png?size=140">
-            <h4 align='center'>群7</h4>
-        </td>
-    </tr>
-</table>
-
-
 # Jd_Seckill
 请安装python 3.8 运行此项目，就不会出现各种问题了
 
@@ -125,7 +106,8 @@ windows目前已经打包完毕，请下载`jd_maotai_20210102.zip`文件，解�
 
 (3)配置一下时间
 > 现在不强制要求同步最新时间了，程序会自动同步京东时间
->> 但要是电脑时间快慢了好几个小时，最好还是同步一下吧
+>
+> > 但要是电脑时间快慢了好几个小时，最好还是同步一下吧
 
 以上都是必须的.
 > tips：
